@@ -8,7 +8,7 @@ AVISO: El icono de programa no es de dominio propio, he adquirido uno de una pag
 #
 Este es un proyecto de lanzador de juegos a base de python, el cual busca una experiencia personalizada para cada usuario, este apenas es un proyecto, si, lo he estado trabajando desde antes, y aun no es perfecto, tiene sus detalles, como la compatibilidad con diferentes resoluciones que no sean 1080p y una escala mayor al 100%, aun hay problemas con eso, a medda de que pase el tiempo buscare una forma de solucionarlo, pero aun asi, el lanzador puede llegar a ser disfrutable por los que quieran usarlo.
 #
-Este lanzador te permite agregar juegos juegos piratas o normales, solo tienes que buscarl el .exe original de tu juego, el principal, no algun launcher ni .exe que abra el principal, y luego lo puedes personalizar a tu gusto, tambien puedes personalizar varios aspectos en el sistema, como wallpapers, ost de fondo, y sonido de navegacion, tambien gestion de usuario, les recomiendo ir viendo las releases paraa que miren las imagenes y el registro de cambios, pero como tal tambien les dejare unas aqui abajo.
+Este lanzador te permite agregar juegos piratas o normales, solo tienes que buscarl el .exe original de tu juego, el principal, no algun launcher ni .exe que abra el principal, y luego lo puedes personalizar a tu gusto, tambien puedes personalizar varios aspectos en el sistema, como wallpapers, ost de fondo, y sonido de navegacion, tambien gestion de usuario, les recomiendo ir viendo las releases paraa que miren las imagenes y el registro de cambios, pero como tal tambien les dejare unas aqui abajo.
 
 #
 <img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/3e760106-9362-447e-8abc-1b71a6a3d4b5" />
